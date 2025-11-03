@@ -1,11 +1,11 @@
 
 ### Hi there 👋
 * 👦 I'm Ikram or (apollon/Sofia)
-* 🖥 Interested in Cyber Security and Philosophy.
 - 🖥  I'm a cybersecurity engineer from Morocco
+- 🎓 Currently studying Networks & Cloud Computing at Sorbonne University
 - 🌱 I’m learning English and German
-- 📫 Want to contact me for whatever reason? Discord : dionysian#1126 XD
-- Or (email: ikrambourhim21@gmail.com)
+- 🧠 Interests: Cloud architecture, Linux systems, automation, cybersecurity
+
 ![](https://komarev.com/ghpvc/?username=ikramsofia&color=brightgreen)
 </p>
 <p align="center">
